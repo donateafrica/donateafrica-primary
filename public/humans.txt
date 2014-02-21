@@ -1,0 +1,6 @@
+/* SITE */
+
+	Site name:  DonateAfrica
+	Site URL:   http://donateafrica.org/
+	Contact:    http://donateafrica.org/contact/
+	Location:   Johannesburg, South Africa
