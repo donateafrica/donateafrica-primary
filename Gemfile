@@ -14,6 +14,7 @@ group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
   gem 'libnotify'
+  gem 'factory_girl_rails'
 end
 
 gem 'sass-rails', '~> 4.0.0'
